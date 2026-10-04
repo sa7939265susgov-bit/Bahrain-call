@@ -1,0 +1,6 @@
+{
+  "name": "Bahrain Meet",
+  "description": "Google Meet video calling, dialer, Bahrain directory, carrier SIM selector (Batelco, STC, Zain), emergency services, and GCC roaming manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
